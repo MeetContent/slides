@@ -2,7 +2,9 @@
 
 This is a repository hosting HTML presentations for the MeetContent community of practice.
 
-The source of the presentations lives under [slides](/slides)
+The source of the presentations lives on html files under [presentations](/presentations). They will render under `meetcontent.github.io/slides/presentations/filename.html`.
+
+If you create a new presentation, link to it from the [index.html](index.html) file.
 
 The rest of the contents of the repository is a fork of [reveal.js](https://github.com/hakimel/reveal.js/), the HTML presentation framework.
 
