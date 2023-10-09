@@ -1,3 +1,13 @@
+# Slides for MeetContent
+
+This is a repository hosting HTML presentations for the MeetContent community of practice.
+
+The source of the presentations lives under [slides](/slides)
+
+The rest of the contents of the repository is a fork of [reveal.js](https://github.com/hakimel/reveal.js/), the HTML presentation framework.
+
+## About Reveal.js
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
