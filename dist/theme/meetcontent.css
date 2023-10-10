@@ -41,13 +41,13 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .watermark {
   position: absolute;
-  left: 1.4em;
-  bottom: 1.4em;
+  left: 1em;
+  bottom: .8em;
   z-index: 10;
 }
 
 .watermark img {
-  height: 3.6em;
+  height: 4em;
 }
 
 .reveal-viewport {
@@ -149,6 +149,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal strong,
 .reveal b {
   font-weight: bold;
+  color: var(--r-link-color);
 }
 
 .reveal em {
@@ -312,7 +313,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 .reveal a {
   color: var(--r-link-color);
-  text-decoration: none;
+  text-decoration: underline;
   transition: color 0.15s ease;
 }
 
